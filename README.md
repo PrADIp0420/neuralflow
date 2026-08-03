@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.svg" width="90" height="90" alt="NeuralFlow logo" />
+  <img src="./assets/logo.png" width="90" height="90" alt="NeuralFlow logo" />
 </p>
 
 <h1 align="center">NeuralFlow</h1>
