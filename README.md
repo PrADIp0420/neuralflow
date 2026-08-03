@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">NeuralFlow</h1>
-<p align="center"><b>A simple team task manager — projects, tasks, and a Kanban board.</b></p>
+<p align="center"><b>A team task manager — projects, tasks, and a Kanban board.</b></p>
 
 ---
 
